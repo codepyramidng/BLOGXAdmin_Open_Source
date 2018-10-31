@@ -7,3 +7,4 @@ STEPS TO SETUP PROJECT:
 3. Open Android Studio and select "Check out project from version control to clone it | Open and existing Android Studio project" to start the project.
 4. Create a Firebase project at https://console.firebase.google.com | connect it to your app using Android Studio [at your menu toolbar you will see "Tools" click on it and select Firebase, then add Firebase Firestore and Authentication to your project.
 5. If you're done with the above steps, then you're good to go.
+6. Make sure you have a stable internet connection.
